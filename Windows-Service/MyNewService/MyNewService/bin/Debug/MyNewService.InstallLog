@@ -1,0 +1,52 @@
+﻿正在安装程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+正在安装服务 MyNewService...
+已成功安装服务 MyNewService。
+正在日志 Application 中创建 EventLog 源 MyNewService...
+正在提交程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+正在卸载程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+正在移除 EventLog 源 MyNewService。
+正在从系统中移除服务 MyNewService...
+已成功地从系统中移除服务 MyNewService。
+正在安装程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+正在安装服务 MyNewService...
+已成功安装服务 MyNewService。
+正在日志 Application 中创建 EventLog 源 MyNewService...
+正在提交程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+正在卸载程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+正在移除 EventLog 源 MyNewService。
+在卸载 System.Diagnostics.EventLogInstaller 安装程序的过程中发生异常。
+System.Security.SecurityException: 不允许所请求的注册表访问权。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在卸载程序集“C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\10288102\OneDrive - BD\Documents\Visual Studio 2015\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+正在移除 EventLog 源 MyNewService。
+在卸载 System.Diagnostics.EventLogInstaller 安装程序的过程中发生异常。
+System.Security.SecurityException: 不允许所请求的注册表访问权。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
